@@ -1,0 +1,33 @@
+.navbar .navbar-brand{
+	color: rgba(255,255,255,.85);
+	font-size: 1rem;
+	padding-top: .45rem;
+}
+
+.jumbotron{
+	background: url('../img/jumbo-bg.jpg');
+	background-size:cover;
+}
+
+/*
+.btn,
+.active{
+	transition: .4s;
+}*/
+#register_btn{
+	margin-left: 28rem;
+	}
+
+h6 {
+	color: rgba(100,0,100,.85);
+}
+
+.img-circle{
+	height: 4rem;
+}
+.arrow-down{
+	height: 22px;
+	width: 22px;
+	border: 1px solid darkgray;
+	border-radius: 100%;
+}
